@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+	<head>
+	<meta charset="UTF-8">
+		<title>multipage-activity-about</title>
+	</head>
+	<body>
+    <ul id="navigation">
+		<li><a href="multipage-activit-home">Home</a></li>
+		<li><a href="multipage-activity-about">About</a></li>
+		<li><a href="multipage-activity-resources">Resources</a></li>
+	</ul>
+    	<h1> This is a place holder for my "about" section </h1>
+    </body>
+</html>
