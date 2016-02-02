@@ -6,9 +6,9 @@
 	</head>
 	<body>
     <ul id="navigation">
-		<li><a href="web design j360/home/multipage-activity-home">Home</a></li>
-		<li><a href="web design j360/about/multipage-activity-about">About</a></li>
-		<li><a href="web design j360/resources/multipage-activity-resources">Resources</a></li>
+		<li><a href="web design j360/home/multipage-activity-home.html">Home</a></li>
+		<li><a href="web design j360/about/multipage-activity-about.html">About</a></li>
+		<li><a href="web design j360/resources/multipage-activity-resources.html">Resources</a></li>
 	</ul>
     	<h1> This is a place holder for my "about" section </h1>
     </body>
