@@ -6,9 +6,9 @@
    	</head>
     <body>
     <ul id="navigation">
-		<li><a href="web design j360/index.html">Home</a></li>
-		<li><a href="web design j360/about/index.html">About</a></li>
-		<li><a href="web design j360/resources/index.html">Resources</a></li>
+		<li><a href="index.html">Home</a></li>
+		<li><a href="about/index.html">About</a></li>
+		<li><a href="resources/index.html">Resources</a></li>
 	</ul>
     	<h1> This is a placeholder for my resources section. </h1>
     </body>
