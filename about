@@ -7,8 +7,8 @@
 	<body>
     <ul id="navigation">
 		<li><a href="index.html">Home</a></li>
-		<li><a href="about/index.html">About</a></li>
-		<li><a href="resources/index.html">Resources</a></li>
+		<li><a href="about.html">About</a></li>
+		<li><a href="resources.html">Resources</a></li>
 	</ul>
     	<h1> This is a place holder for my "about" section </h1>
     </body>
